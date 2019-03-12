@@ -1,1 +1,1 @@
-# Python exercises
+# ゲノム情報解析のためのPythonトレーニング
