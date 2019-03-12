@@ -10,5 +10,5 @@
 	- Python 3
 
 ## アクセス
-1. Googleアカウントに[ログイン](https://accounts.google.com/ServiceLogin)
-1. [練習帳](https://colab.research.google.com/github/qqep685d/Python_exercises/blob/master/index.ipynb)へ
+1. Googleアカウントに<a href="https://accounts.google.com/ServiceLogin" target="_blank">ログイン</a>
+1. <a href="https://colab.research.google.com/github/qqep685d/Python_exercises/blob/master/index.ipynb" target="_blank">練習帳</a>へ
