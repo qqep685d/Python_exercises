@@ -21,12 +21,11 @@
 
 #### 1. Python入門
 1. [プログラムを実行してみる](https://colab.research.google.com/github/qqep685d/Python_exercises/blob/master/textbook/I-1-1.ipynb)
-1. [簡単なプログラム`Hello world`を書いてみる]()
+1. [簡単なプログラム Hello world を書いてみる]()
 1. [プログラムにコメント（メモ）を書き込む]()
 
 #### 2. Python基礎
-1. [Print()]()
-1. [変数とデータ型]()
+1. [変数、データ型]()
 1. [文字列、数値]()
 1. [リスト、タプル、ディクショナリ]()
 1. [関数]()
