@@ -25,7 +25,7 @@
 1. [プログラムにコメント（メモ）を書き込む](https://colab.research.google.com/github/qqep685d/Python_exercises/blob/master/textbook/I-1-3.ipynb)
 
 #### 2. Python基礎
-1. [変数、データ型]()
+1. [変数、データ型](https://colab.research.google.com/github/qqep685d/Python_exercises/blob/master/textbook/I-2-1.ipynb)
 1. [文字列、数値]()
 1. [リスト、タプル、ディクショナリ]()
 1. [関数]()
