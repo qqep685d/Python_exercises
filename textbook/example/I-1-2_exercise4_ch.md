@@ -5,7 +5,8 @@
 ### チャレンジ問題
 次の式をプログラムで計算してください。
 
-${\frac{100 + 5 \times 7}{3}  - 6}$
+${$
+<img src="https://latex.codecogs.com/gif.latex?\frac{100+5\times7}{3}-6&space;=&space;-1">
 
 ```python
 print( (100 + 5 * 7) / 3 - 6 )
