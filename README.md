@@ -41,7 +41,7 @@ Pythonプログラミングの勉強をしたことがある方や、他のプ�
 #### 2. Python基礎
 1. 変数、データ型 [[テキスト](https://colab.research.google.com/github/qqep685d/Python_exercises/blob/master/textbook/I-2-1_textbook.ipynb)]
 1. 文字列、数値、真偽値 [[テキスト](https://colab.research.google.com/github/qqep685d/Python_exercises/blob/master/textbook/I-2-2_textbook.ipynb) | [練習問題](https://colab.research.google.com/github/qqep685d/Python_exercises/blob/master/textbook/I-2-2_textbook.ipynb##pr1)]
-1. リスト、タプル、ディクショナリ
+1. リスト、タプル、ディクショナリ [[テキスト](https://colab.research.google.com/github/qqep685d/Python_exercises/blob/master/textbook/I-2-3_textbook.ipynb)]
 1. for構文
 1. if構文
 1. 関数
