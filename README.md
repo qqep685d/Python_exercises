@@ -23,7 +23,7 @@ Pythonの問題集として使ってください。
 ### I. ファースト・ステップ
 
 #### 1. Python入門
-1. [ノートブックの使い方]()
+1. [ノートブックの使い方](https://colab.research.google.com/github/qqep685d/Python_exercises/blob/master/textbook/exercises/I-1-01.ipynb)
 1. プログラムにコメント行を追加
 
 #### 2. Python基礎
@@ -53,5 +53,4 @@ Pythonの問題集として使ってください。
 
 #### 4. Matplotlibライブラリでグラフ描画
 
-
----
+### III. サード・ステップ
