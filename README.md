@@ -24,7 +24,7 @@ Pythonの問題集として使ってください。
 
 #### 1. Python入門
 1. [ノートブックの使い方](https://colab.research.google.com/github/qqep685d/Python_exercises/blob/master/textbook/exercises/I-1-01.ipynb)
-1. プログラムにコメント行を追加
+1. [プログラムにコメントを入れる](https://colab.research.google.com/github/qqep685d/Python_exercises/blob/master/textbook/exercises/I-1-02.ipynb)
 
 #### 2. Python基礎
 1. 変数
