@@ -27,7 +27,7 @@ Pythonの問題集として使ってください。
 1. [プログラムにコメントを入れる](https://colab.research.google.com/github/qqep685d/Python_exercises/blob/master/textbook/exercises/I-1-02.ipynb)
 
 #### 2. Python基礎
-1. 変数
+1. [変数](https://colab.research.google.com/github/qqep685d/Python_exercises/blob/master/textbook/exercises/I-2-01.ipynb)
 1. データ型
 1. 文字列
 1. 数値
