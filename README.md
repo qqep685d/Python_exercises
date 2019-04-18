@@ -32,7 +32,7 @@ Pythonの問題集として使ってください。
 1. [文字列](https://colab.research.google.com/github/qqep685d/Python_exercises/blob/master/textbook/exercises/I-2-03.ipynb)
 1. [数値](https://colab.research.google.com/github/qqep685d/Python_exercises/blob/master/textbook/exercises/I-2-04.ipynb)
 1. 真偽値
-1. リスト
+1. [リスト](https://colab.research.google.com/github/qqep685d/Python_exercises/blob/master/textbook/exercises/I-2-06.ipynb)
 1. タプル
 1. ディクショナリ
 1. for構文
