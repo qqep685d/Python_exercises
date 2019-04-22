@@ -34,7 +34,7 @@ Pythonの問題集として使ってください。
 1. 真偽値
 1. [リスト](https://colab.research.google.com/github/qqep685d/Python_exercises/blob/master/textbook/exercises/I-2-06.ipynb)
 1. タプル
-1. ディクショナリ
+1. [ディクショナリ](https://colab.research.google.com/github/qqep685d/Python_exercises/blob/master/textbook/exercises/I-2-08.ipynb)
 1. for構文
 1. if構文
 1. 関数
